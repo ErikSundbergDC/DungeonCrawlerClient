@@ -2,7 +2,7 @@
 using System.Net;
 using System.Text;
 
-namespace DungeonCrawlerClientTe21
+namespace DungeonCrawlerClient
 {
     internal class Program
     {
